@@ -1,0 +1,22 @@
+body{
+	background-image: url(img/bucks.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+h1{
+	background-color: #666;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 1.2em;
+	align-content: center;
+	color: #D91A1D;
+	text-align: center;
+}
+#buck table{
+	weight: 50px;
+	border: 1px solid #333;
+}
+#buck th{
+	height: 50%;
+	border: 1px solid #333;
+}
